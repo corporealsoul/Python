@@ -1,6 +1,6 @@
-class tenth:
-    student_name = "default"
-    student_group = "default"
-    student_role = 0
+class admission:
+    student_name = "Rishav"
+    student_roll = 2
+    student_year = 2025
 
-print(tenth.student_name)
+print(admission.student_roll)
