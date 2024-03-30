@@ -8,5 +8,6 @@ class person:
 
 first_person = person("Rishav", "36")
 
+first_person.age = 40
 
 first_person.manual()
