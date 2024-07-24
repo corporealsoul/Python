@@ -26,5 +26,32 @@
 #     print(loop)
 
 
-string_dictionary = {"one" : 1, "two" : 2, "three" : 3, "four" : 4, "five" : 5}
-for words, numbers in string_dictionary.items()
+# string_dictionary = {"one" : 1, "two" : 2, "three" : 3, "four" : 4, "five" : 5}
+# for words, numbers in string_dictionary.items():
+#     print(words)
+#     print(numbers)
+
+
+# for loop in range (1, 1000):
+#     print(loop)
+
+
+
+# records = []
+#
+# for loop in range (1, 10):
+#     records.append(loop)
+#
+# print(records)
+
+
+
+records = []
+addition = 0
+
+for loop in range (1, 10):
+    records.append(loop)
+    addition = addition + loop
+print(records)
+print(addition)
+
