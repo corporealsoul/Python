@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea9d8ec-5a27-470f-9c10-b8b6fd3900e2" name="Changes" comment="TRAINING-2023-Sep25-00">
-      <change afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/11 Chapter11 - While Loop/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/Projects/fizzbuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/12 Chapter12 - Functions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/13 Chapter13 - OOP/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/13 Chapter13 - OOP/major.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/14 Chapter14 - Reading and Writing Files/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/14 Chapter14 - Reading and Writing Files/user.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/15 Chapter15 - Exception Handling/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/10 Chapter10 - For Loop/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/10 Chapter10 - For Loop/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/11 Chapter11 - While Loop/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/YEAR2023/TRAINING-2023-Sep25-00/11 Chapter11 - While Loop/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -46,7 +53,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/GITRepos/Python/YEAR2023/TRAINING-2023-Sep25-00&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
