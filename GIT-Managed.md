@@ -9,5 +9,5 @@ PS D:\GITRepos\c>  git remote -v
 PS D:\GITRepos\c>  git status
 PS D:\GITRepos\c>  git add .
 PS D:\GITRepos\c>  git status
-PS D:\GITRepos\c>  git commit -m "PROJECT2024-Jan01-00"
+PS D:\GITRepos\c>  git commit -m "Python"
 PS D:\GITRepos\c>  git push origin main
